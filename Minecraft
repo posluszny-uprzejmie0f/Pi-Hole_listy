@@ -1,5 +1,5 @@
-(\.|^)mojang\.com$
-(\.|^)minecraft\.net$
+mojang.com
+minecraft.net
 piston-meta.mojang.com
 launchermeta.mojang.com
 api.minecraftservices.com
